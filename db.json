@@ -1,0 +1,256 @@
+{
+  "pizzas": [
+    {
+      "id": "1",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/4sira-478x478.jpg",
+      "name": "Четыре сыра",
+      "description": "Сырный соус, сыр дор блю, моцарелла,чедр, пармезан, итальянские травы.",
+      "price": "99",
+      "status": "new"
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/Карб1-478x478.jpg",
+      "name": "Карбонара",
+      "description": "Моцарелла , сливочный соус, ветчина, бекон, томаты, пармезан.",
+      "price": "99",
+      "status": "new"
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/ciplenok%20sirnuii-478x478.jpg",
+      "name": "Сырный цыпленок",
+      "description": "Сырный соус, цыпленок, томаты, моцарелла.",
+      "price": "89",
+      "status": "new"
+    },
+    {
+      "id": "4",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/супермясо1-478x478.jpg",
+      "name": "Супермясная",
+      "description": "Цыпленок, ветчина, салями, бекон,  мясной соус болоньезе, томатный соус, моцарелла.",
+      "price": "99",
+      "status": "new"
+    },
+    {
+      "id": "5",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/gavaiskajav2-478x478.jpg",
+      "name": "Гавайская",
+      "description": "Цыпленок, томатный соус, моцарелла, ананасы.",
+      "price": "89",
+      "status": "new"
+    },
+    {
+      "id": "6",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/4sezonaa-478x478.jpg",
+      "name": "Четыре сезона",
+      "description": "Итальянские травы, ветчина, салями, томатный соус, кубики брынзы, шампиньоны , моцарелла, томаты.",
+      "price": "89",
+      "status": "new"
+    },
+    {
+      "id": "7",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/tehas-478x478.jpg",
+      "name": "Техас",
+      "description": "Томатный соус, моцарелла, охотничьи колбаски, кукуруза, шампиньоны, красный лук.",
+      "price": "89",
+      "status": "new"
+    },
+    {
+      "id": "8",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/mexikan-478x478.jpg",
+      "name": "Мексиканская",
+      "description": "Цыпленок, томатный соус, сладкий перец, красный лук, моцарелла,  томаты, острый соус сальса.",
+      "price": "109",
+      "status": "new"
+    },
+    {
+      "id": "9",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/peperoni-478x478.jpg",
+      "name": "Пепперони",
+      "description": "Салями, томатный соус, моцарелла.",
+      "price": "99",
+      "status": "new"
+    },
+    {
+      "id": "10",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/4izburger-478x478.jpg",
+      "name": "Чизбургер-пицца",
+      "description": "Сырный соус, мясной соус болоньезе, красный лук, моцарелла, томаты, соленые огурчики.",
+      "price": "99",
+      "status": "new"
+    },
+    {
+      "id": "11",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/чикенранч-478x478.jpg",
+      "name": "Чикен ранч",
+      "description": "Соус сырный, запеченная курица, ветчина, томаты, сыр моцарелла.",
+      "price": "99",
+      "status": "new"
+    },
+    {
+      "id": "12",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/margarita-478x478.jpg",
+      "name": "Маргарита",
+      "description": "Итальянские травы, томатный соус, моцарелла, томаты.",
+      "price": "79",
+      "status": "new"
+    },
+    {
+      "id": "13",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/мясная%20сайт1-478x478.jpg",
+      "name": "Мясная",
+      "description": "Томатный соус, моцарелла, запеченный цыпленок, ветчина, охотничьи колбаски.",
+      "price": "89",
+      "status": "new"
+    },
+    {
+      "id": "14",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/ovoshnaja2-478x478.jpg",
+      "name": "Овощной микс",
+      "description": "Томатный соус, моцарелла, сладкий перец, томаты, грибы шампиньоны, красный лук, кусочки брынзы.",
+      "price": "89",
+      "status": "new"
+    },
+    {
+      "id": "15",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/vetch%20i%20grib2-478x478.jpg",
+      "name": "Ветчина и грибы",
+      "description": "Сыр, ветчина, соус, грибы.",
+      "price": "89",
+      "status": "new"
+    },
+    {
+      "id": "16",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/478X3-478x478.jpg",
+      "name": "Сырная",
+      "description": "Томатный соус, моцарелла, итальянские травы.",
+      "price": "69",
+      "status": "new"
+    },
+    {
+      "id": "17",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/italian-478x478.jpg",
+      "name": "Итальянская",
+      "description": "Томатный соус, моцарелла, салями, шампиньоны, маслины, итальянские травы.",
+      "price": "89",
+      "status": "new"
+    },
+    {
+      "id": "18",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/ветчинасыр-478x478.jpg",
+      "name": "Ветчина и сыр",
+      "description": "Ветчина, сырный соус, моцарелла.",
+      "price": "99",
+      "status": "new"
+    },
+    {
+      "id": "19",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/peperoni%202-478x478.jpg",
+      "name": "Двойная пепперони",
+      "description": "Салями, томатный соус, моцарелла.",
+      "price": "139",
+      "status": "new"
+    }
+  ],
+  "drinks": [
+    {
+      "id": "1",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/Напитки/S1-478x478-min-478x478.jpg",
+      "name": "Sprite, 1 л",
+      "description": "Напиток газированный",
+      "price": "28",
+      "status": "new"
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/now/1litr-478x478.jpg",
+      "name": "Coca-cola , 1 л",
+      "description": "Напиток газированный",
+      "price": "28",
+      "status": "new"
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/Напитки/zer1-478x478-min-478x478.jpg",
+      "name": "Coca-cola Zero, 1 л",
+      "description": "Напиток газированный",
+      "price": "28",
+      "status": "new"
+    },
+    {
+      "id": "4",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/Напитки/fan1-478x478-min-478x478.jpg",
+      "name": "Fanta, 1 л",
+      "description": "Напиток газированный",
+      "price": "28",
+      "status": "new"
+    },
+    {
+      "id": "5",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/Напитки/richA-478x478-min-478x478.jpg",
+      "name": "Сок «Rich» Яблоко, 1 л",
+      "description": "Сок Rich Яблоко",
+      "price": "45",
+      "status": "new"
+    },
+    {
+      "id": "6",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/Напитки/richT-478x478-min-478x478.jpg",
+      "name": "Сок «Rich» Томат, 1 л",
+      "description": "Сок Rich Томат",
+      "price": "45",
+      "status": "new"
+    },
+    {
+      "id": "7",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/Напитки/richM3-478x478-min-478x478.jpg",
+      "name": "Сок «Rich» Мультифрукт, 1 л",
+      "description": "Сок Rich Мультифрукт",
+      "price": "45",
+      "status": "new"
+    },
+    {
+      "id": "8",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/Напитки/richAp-478x478-min-478x478.jpg",
+      "name": "Сок «Rich» Апельсин, 1 л",
+      "description": "Сок Rich Апельсин, 1 л",
+      "price": "45",
+      "status": "new"
+    }
+  ],
+  "salads": [
+    {
+      "id": "1",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/cezar1-478x478.jpg",
+      "name": "Салат Греческий",
+      "description": "Лист салата, помидор, перец болгарский, огурец, масло оливковое, лук салатный, сыр фета.",
+      "price": "75",
+      "status": "new"
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/478/salat2-478x478.jpg",
+      "name": "Салат Цезарь",
+      "description": "Салат айсберг, лист салата, помидор черри, куриное филе, соус цезарь, сухарики, яйцо перепелиное, сыр пармезан.",
+      "price": "93",
+      "status": "new"
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/сайт12-478x478.jpg",
+      "name": "Соус Сырный",
+      "description": "Нежный, пикантный и отлично подходит ко всем блюдам. Вес: 50г",
+      "price": "21",
+      "status": "new"
+    },
+    {
+      "id": "4",
+      "imgUrl": "https://chizpizza.com.ua/image/cache/catalog/сайт1-478x478.jpg",
+      "name": "Соус Свит Чили",
+      "description": "Сладкий и одновременно острый, с приятным томатным оттенком. Вес: 50г",
+      "price": "21",
+      "status": "new"
+    }
+  ]
+}
